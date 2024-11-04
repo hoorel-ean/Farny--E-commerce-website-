@@ -1,6 +1,9 @@
-This is DEPI graduation project.
+This is DEPI graduation project. 
+
 Project Name: Farny - Dynamic E-commerce Platform
+
 Team members:[Hoor EL-ean Khaled / Ahmed EL-kattan / Asmaa Goda / Mohammed Elgendy / Hazem Wageeh/ Mostafa Helmy ]
+
 Overview:
 Farny is a modern e-commerce website crafted to deliver a seamless, engaging, and efficient shopping experience. Developed using HTML, CSS, Bootstrap, JavaScript, jQuery, and Owl Carousel, Farny combines responsive design with dynamic features to create an intuitive and visually appealing online store.
 
